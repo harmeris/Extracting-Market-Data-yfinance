@@ -1,4 +1,4 @@
-# (Python) Extracting Market Data with yfinance API and Pandas librery
+# (Python) Extracting Market Data with Yfinance API and Pandas Librery
 
 EN:
 This project consists of a notebook that uses Python libraries (pandas, yfinance, requests, plotly, etc.) to create simple dashboards. These dashboards display the updated stock prices and earnings of various companies listed on the U.S. stock market.
